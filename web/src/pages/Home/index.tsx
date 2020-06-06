@@ -15,9 +15,7 @@ const Home: React.FC = () => (
 
       <main>
         <h1>Seu Marketplace de coleta de resíduos.</h1>
-        <p>
-          Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.
-        </p>
+        <p>Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.</p>
 
         <Link to="/create-point">
           <span>
