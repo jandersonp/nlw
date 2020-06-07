@@ -13,7 +13,7 @@ import logo from '../../assets/logo.svg';
  * a gente precisa manualmente informar o tipo da variável a ser armazenada
  */
 interface Item {
-  item: number;
+  id: number;
   title: string;
   image_url: string;
 }
